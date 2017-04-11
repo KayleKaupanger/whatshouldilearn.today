@@ -18,17 +18,19 @@ Example:
 
 Result:
 
+
 <details>
   <summary>This is the Collapsible Heading</summary>
   Content goes here.
 </details>
 
+
 ## Looking for something better?
 
 We can use CSS and a little more HTML to achieve a more professional look. 
 
-<script async src="//jsfiddle.net/resende4/uoy6mf2h/embed/css/"></script>
+<iframe width="100%" height="300" src="//jsfiddle.net/resende4/uoy6mf2h/1/embedded/html/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/resende4/uoy6mf2h/1/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/resende4/uoy6mf2h/1/embedded/css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-
+<iframe width="100%" height="300" src="//jsfiddle.net/resende4/uoy6mf2h/1/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
