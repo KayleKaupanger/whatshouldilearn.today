@@ -10,7 +10,7 @@ categories: posts
 
 Wordpress without plugins can be an exhuasting effort.  After being assigned a project with limited plugins, I had to search for a solution using pure CSS & HTML.
 
-I have found that '<summary>' and '<detail>' tags are easiest for this exact purpose. o css is required at all as the collapsing and showing are part of the tags definition/formatting.
+I have found that <' summary '> and <' detail '>' tags are perfect for headings. There really isn't any CSS required as the collapsing and showing are part of the tags definition/formatting. We will cover CSS later...
 
 Example:
 
