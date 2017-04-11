@@ -19,10 +19,7 @@ Example:
 Result:
 
 
-<details>
-  <summary> ## This is the Collapsible Heading</summary>
-  Content goes here.
-</details>
+<iframe width="100%" height="300" src="//jsfiddle.net/resende4/aaxh0zd5/2/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 
 ## Looking for something better?
