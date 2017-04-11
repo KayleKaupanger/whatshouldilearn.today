@@ -19,7 +19,7 @@ Example:
 Result:
 
 
-<details>
+##<details>
   <summary>This is the Collapsible Heading</summary>
   Content goes here.
 </details>
