@@ -19,8 +19,7 @@ Example:
   Content goes here.
 </details>
 
-<script async src="//jsfiddle.net/auz3ge8e/1/embed/"></script>
-
+<script async src="//jsfiddle.net/auz3ge8e/1/embed/html,result/"></script>
 
 
 
