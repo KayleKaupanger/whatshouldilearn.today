@@ -16,4 +16,5 @@ Example:
 
 <script async src="//jsfiddle.net/auz3ge8e/1/embed/html/"></script>
 
+<script async src="//jsfiddle.net/auz3ge8e/1/embed/result/"></script>
 
