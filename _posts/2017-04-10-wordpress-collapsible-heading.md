@@ -16,7 +16,6 @@ Example:
 
 <script async src="//jsfiddle.net/auz3ge8e/1/embed/html/"></script>
 
-Result:
 
 
 <iframe width="100%" height="300" src="//jsfiddle.net/resende4/aaxh0zd5/2/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
