@@ -19,8 +19,8 @@ Example:
 Result:
 
 
-##<details>
-  <summary>This is the Collapsible Heading</summary>
+<details>
+  <summary> ## This is the Collapsible Heading</summary>
   Content goes here.
 </details>
 
