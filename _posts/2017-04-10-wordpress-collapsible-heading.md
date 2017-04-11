@@ -31,4 +31,4 @@ We can use CSS and additonal HTML to achieve a more professional look.
 
 <iframe width="100%" height="300" src="//jsfiddle.net/resende4/uoy6mf2h/1/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
-Not to hard, was it?  Keep checking back to http://WhatShouldiLearn.today for more tutorials!
+Not too hard, was it?  Keep checking back to http://WhatShouldiLearn.today for more tutorials!
